@@ -22,7 +22,7 @@ The **Copilot Studio Agent Academy** is a multi-phase training program designed 
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | Foundations | !Copilot099 Badge{ width="150" } |
+| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | Foundations | !Copilot-099{ width="150" } |
 | 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | !Copilot101 Badge{ width="150" } |
 | 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | !Copilot201 Badge{ width="150" } |
 | 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | !Copilot301 Badge{ width="150" } |
