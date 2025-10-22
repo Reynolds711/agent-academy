@@ -12,9 +12,13 @@ Welcome to Copilot Agent Academy, your guided journey to mastering the art of bu
 This course is designed to build your confidence and creativity across the full spectrum of AI fluency:
 
 🧠 AI Foundations & Fluency — grasp the concepts behind large language models and generative AI.
+
 💬 Prompt Crafting & Reasoning — learn how to think and communicate like an AI designer.
+
 ⚙️ Agent Builder (Copilot Studio Lite) — start constructing your first intelligent workflows using Microsoft Copilot Studio.
+
 🪄 Copilot Studio Deep Dive — connect data, integrate actions, and extend your Copilots with custom logic.
+
 ☁️ Azure Agent Framework (coming soon) — move from concept to scale with the full Azure AI Agent Platform.
 
 Whether you're a student, educator, or professional innovator, the Copilot Agent Academy empowers you to understand, build, and deploy real-world AI agents that make both work and learning smarter.
@@ -30,11 +34,11 @@ The **Copilot  Agent Academy** is a multi-phase training program designed to bui
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 **Copilot 099**<br>🚀 Get started | Foundations | <img src=images/Copilot-099.png" alt=Copilot 099" width="120"/>   |
-| 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | <img src=images/Copilot-101.png" alt=Copilot 101" width="120"/>   |
-| 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | <img src=images/Copilot-201.png" alt=Copilot 201" width="120"/>   |
-| 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | <img src=images/Copilot-301.png" alt=Copilot 301" width="120"/>   |
-| 🟡 **Copilot 401**<br>(Coming Soon) | Expert Level | <img src=images/Copilot-401.png" alt=Copilot 401" width="120"/>   |
+| 🟢 **Copilot 099**<br>🚀 Get started | Foundations | <img src="images/Copilot-099.png" alt="Copilot 099" width="120"/>   |
+| 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | <img src="images/Copilot-101.png" alt="Copilot 101" width="120"/>   |
+| 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | <img src="images/Copilot-201.png" alt="Copilot 201" width="120"/>   |
+| 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | <img src="images/Copilot-301.png" alt="Copilot 301" width="120"/>   |
+| 🟡 **Copilot 401**<br>(Coming Soon) | Expert Level | <img src="images/Copilot-401.png" alt="Copilot 401" width="120"/>   |
 
 
 
