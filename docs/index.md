@@ -5,24 +5,32 @@ hide:
 
 # Copilot Studio Agent Academy
 
-**Welcome to Copilot Studio Agent Academy.**  
+**Welcome to Copilot Agent Academy.**  
 
-Your mission—should you choose to accept it—is to master the art of building agents using **Microsoft Copilot Studio**.
+Welcome to Copilot Agent Academy, your guided journey to mastering the art of building intelligent agents with Microsoft Copilot technologies.
 
-This hands-on training is your entry point into the **world of agents**: from grounded prompts to Adaptive Cards and agent flows, you'll learn how to build, scale, and deploy intelligent agents using real-world tools and use cases.
+This course is designed to build your confidence and creativity across the full spectrum of AI fluency:
+
+🧠 AI Foundations & Fluency — grasp the concepts behind large language models and generative AI.
+💬 Prompt Crafting & Reasoning — learn how to think and communicate like an AI designer.
+⚙️ Agent Builder (Copilot Studio Lite) — start constructing your first intelligent workflows using Microsoft Copilot Studio.
+🪄 Copilot Studio Deep Dive — connect data, integrate actions, and extend your Copilots with custom logic.
+☁️ Azure Agent Framework (coming soon) — move from concept to scale with the full Azure AI Agent Platform.
+
+Whether you're a student, educator, or professional innovator, the Copilot Agent Academy empowers you to understand, build, and deploy real-world AI agents that make both work and learning smarter.
 
 ---
 
 ## 🏅 Rank Progression
 
-The **Copilot Studio Agent Academy** is a multi-phase training program designed to build your skills across five ranks. Each level includes a badge and increasing responsibilities:
+The **Copilot  Agent Academy** is a multi-phase training program designed to build your skills across five courses. Each level includes a badge and increasing responsibilities:
 
 
 
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | Foundations | ![Copilot 099](images/Copilot-099.png)   |
+| 🟢 **Copilot 099**<br>🚀 Get started | Foundations | ![Copilot 099](images/Copilot-099.png)   |
 | 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | ![Copilot 101](images/Copilot-101.png)  |
 | 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | ![Copilot 201](images/Copilot-201.png)  |
 | 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | ![Copilot 301](images/Copilot-301.png)  |
