@@ -20,11 +20,11 @@ The **Copilot Studio Agent Academy** is a multi-phase training program designed 
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | • | !Copilot099 Badge{ width="150" } |
-| 🔵 **Copilot 101**<br>(Coming Soon) | •• | !Copilot101 Badge{ width="150" } |
-| 🟡 **Copilot 201**<br>(Coming Soon) | ••• | !Copilot201 Badge{ width="150" } |
-| 🔵 **Copilot 301**<br>(Coming Soon) | •••• | !Copilot301 Badge{ width="150" } |
-| 🟡 **Copilot 401**<br>(Coming Soon) | ••••• | !Copilot401 Badge{ width="150" } |
+| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | • | !Copilot-099 Badge{ width="150" } |
+| 🔵 **Copilot 101**<br>(Coming Soon) | •• | !Copilot-101 Badge{ width="150" } |
+| 🟡 **Copilot 201**<br>(Coming Soon) | ••• | !Copilot-201 Badge{ width="150" } |
+| 🔵 **Copilot 301**<br>(Coming Soon) | •••• | !Copilot-301 Badge{ width="150" } |
+| 🟡 **Copilot 401**<br>(Coming Soon) | ••••• | !Copilot-401 Badge{ width="150" } |
 
 Each level builds on the last. Finish your Copilot 099 mission and get ready to level up!
 
