@@ -22,11 +22,11 @@ The **Copilot Studio Agent Academy** is a multi-phase training program designed 
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | Foundations | <img src="images/Copilot-099.png" alt="Copilot 099"  |
-| 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | <img src="images/Copilot-101.png" alt="Copilot 101"  |
-| 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | <img src="images/Copilot-099.png" alt="Copilot 201"  |
-| 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | <img src="images/Copilot-099.png" alt="Copilot 301"  |
-| 🟡 **Copilot 401**<br>(Coming Soon) | Expert Level | <img src="images/Copilot-099.png" alt="Copilot 401"  |
+| 🟢 **Copilot 099**<br>🚀 Get started{ .md-button .md-button--primary } | Foundations | ![Copilot 099](images/Copilot-099.png)   |
+| 🔵 **Copilot 101**<br>(Coming Soon) | Core Concepts | ![Copilot 101](images/Copilot-101.png)  |
+| 🟡 **Copilot 201**<br>(Coming Soon) | Intermediate | ![Copilot 201](images/Copilot-201.png)  |
+| 🔵 **Copilot 301**<br>(Coming Soon) | Advanced Agents | ![Copilot 301](images/Copilot-301.png)  |
+| 🟡 **Copilot 401**<br>(Coming Soon) | Expert Level | ![Copilot 401](images/Copilot-401.png)  |
 
 
 
