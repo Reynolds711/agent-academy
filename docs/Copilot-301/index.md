@@ -48,8 +48,8 @@ This academy is broken into progressive lessons—each one designed as a field m
 
 | Lesson | Title | Mission Briefing |
 |--------|-------|------------------|
-| `00` | 🧰 [Course Setup](./00-course-setup/README.md) | Set up your dev environment, Copilot Studio trial, and SharePoint site |
-| `01` | 🧠 [Introduction to Agents](./01-introduction-to-agents/README.md) | Understand conversational AI concepts, LLMs, and autonomous vs. declarative agents |
+| `00` | 🧰 [Course Setup](00-course-setup/) | Set up your dev environment, Copilot Studio trial, and SharePoint site |
+| `01` | 🧠 [Introduction to Agents](introduction-to-agents/) | Understand conversational AI concepts, LLMs, and autonomous vs. declarative agents |
 | `02` | 🛠️ [Copilot Studio Fundamentals](./02-copilot-studio-fundamentals/README.md) | Learn the building blocks: knowledge, skills, autonomy |
 | `03` | 👩‍💻 [Create a Declarative Agent](./03-create-a-declarative-agent-for-M365Copilot/README.md) | Add your own agent to the Microsoft 365 Copilot, grounded in a prompt |
 | `04` | 🧩 [Creating a Solution](./04-creating-a-solution/README.md) | Package your agent into a reusable solution for environment management |
