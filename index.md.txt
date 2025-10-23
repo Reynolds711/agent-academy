@@ -1,0 +1,15 @@
+# 🎓 Copilot Agent Academy
+
+Welcome to the **Copilot Agent Academy**, your guided path to mastering the art of building intelligent agents using **Microsoft Copilot Studio**.
+
+### 🌟 Your Learning Journey
+The Academy is structured across four progressive levels:
+- **Copilot 099 – AI Fluency**: Build your foundational understanding of large language models, prompting, and AI reasoning.
+- **Copilot 101 – Core Concepts**: Learn conversational design, data integration, and Copilot Studio basics.
+- **Copilot 201 – Intermediate Builders**: Extend Copilot with APIs, Adaptive Cards, and orchestration.
+- **Copilot 301 – Advanced Agents**: Design full multi-agent systems with Azure AI Agent Framework.
+
+---
+
+🚀 **Start your journey here:**
+[Go to Copilot 099 →](Copilot099/index.md)
