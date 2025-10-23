@@ -34,11 +34,11 @@ The **Copilot  Agent Academy** is a multi-phase training program designed to bui
 
 | Rank | Level | Badge |
 |------|:-----:|-------|
-| 🟢 [**Copilot 099**<br>🚀 Get started](Copilot-099.md) | Foundations | <img src="images/Copilot-099.png" alt="Copilot 099" width="120"/>   |
-| 🔵 [**Copilot 101**<br>(Coming Soon)](Copilot-101.md) | Core Concepts | <img src="images/Copilot-101.png" alt="Copilot 101" width="120"/>   |
-| 🟡 [**Copilot 201**<br>(Coming Soon)](Copilot-201.md) | Intermediate | <img src="images/Copilot-201.png" alt="Copilot 201" width="120"/>   |
-| 🔵 [**Copilot 301**<br>(Coming Soon)](Copilot-301.md) | Advanced Agents | <img src="images/Copilot-301.png" alt="Copilot 301" width="120"/>   |
-| 🟡 [**Copilot 401**<br>(Coming Soon)](Copilot-401.md) | Expert Level | <img src="images/Copilot-401.png" alt="Copilot 401" width="120"/>   |
+| 🟢 [**Copilot 099**<br>🚀 Get started](Copilot-099/index.md) | Foundations | <img src="images/Copilot-099.png" alt="Copilot 099" width="120"/>   |
+| 🔵 [**Copilot 101**<br>(Coming Soon)](Copilot-101/index.md) | Core Concepts | <img src="images/Copilot-101.png" alt="Copilot 101" width="120"/>   |
+| 🟡 [**Copilot 201**<br>(Coming Soon)](Copilot-201/index.md) | Intermediate | <img src="images/Copilot-201.png" alt="Copilot 201" width="120"/>   |
+| 🔵 [**Copilot 301**<br>(Coming Soon)](Copilot-301/index.md) | Advanced Agents | <img src="images/Copilot-301.png" alt="Copilot 301" width="120"/>   |
+| 🟡 [**Copilot 401**<br>(Coming Soon)](Copilot-401/index.md) | Expert Level | <img src="images/Copilot-401.png" alt="Copilot 401" width="120"/>   |
 
 
 
